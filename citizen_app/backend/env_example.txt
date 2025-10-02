@@ -1,0 +1,16 @@
+# Database Configuration
+DATABASE_URL=postgresql://postgres:your_password@localhost:5432/civic_sense
+
+# Firebase Configuration
+FIREBASE_SERVICE_ACCOUNT_PATH=./firebase-service-account.json
+
+# Server Configuration
+HOST=0.0.0.0
+PORT=8000
+DEBUG=True
+
+# CORS Configuration (for production, specify exact origins)
+ALLOWED_ORIGINS=http://localhost:3000,http://localhost:8080
+
+# Security
+SECRET_KEY=your-super-secret-key-here-change-this-in-production

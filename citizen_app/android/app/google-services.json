@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "588617086455",
+    "project_id": "civic-sense-e785a",
+    "storage_bucket": "civic-sense-e785a.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:588617086455:android:f945afb67b0b1d0f4a6af2",
+        "android_client_info": {
+          "package_name": "com.civicsense.citizen_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCPC5Ie_Q87u-2N2qISd1Ykoxa7ls_NmWk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
